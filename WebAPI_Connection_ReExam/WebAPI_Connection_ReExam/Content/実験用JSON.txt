@@ -1,0 +1,68 @@
+[
+    {
+        "entryDate": "2014-04-01T00:00:00", 
+        "name": "‹{è@‘å˜a", 
+        "workerId": 1, 
+        "workerType": "‰ÁHÒ"
+    }, 
+    {
+        "entryDate": "2016-04-01T00:00:00", 
+        "name": "ˆê–Ø@N•½", 
+        "workerId": 2, 
+        "workerType": "‰ÁHÒ"
+    }, 
+    {
+        "entryDate": "2017-04-01T00:00:00", 
+        "name": "“c’†@‹±•½", 
+        "workerId": 3, 
+        "workerType": "‰ÁHÒ"
+    }, 
+    {
+        "entryDate": "2017-04-01T00:00:00", 
+        "name": "‹k@­u", 
+        "workerId": 4, 
+        "workerType": "‰ÁHÒ"
+    }, 
+    {
+        "entryDate": "2010-09-05T00:00:00", 
+        "name": "P‹g@W¬", 
+        "workerId": 5, 
+        "workerType": "Ó”CÒ"
+    }, 
+    {
+        "entryDate": "2015-09-05T00:00:00", 
+        "name": "r–Ø@ÈŒá", 
+        "workerId": 6, 
+        "workerType": "‰ÁHÒ"
+    }, 
+    {
+        "entryDate": "2016-02-01T00:00:00", 
+        "name": "²X–Ø@Š°", 
+        "workerId": 7, 
+        "workerType": "‰ÁHÒ"
+    }, 
+    {
+        "entryDate": "2012-04-01T00:00:00", 
+        "name": "–ö“c@Â‘¾", 
+        "workerId": 8, 
+        "workerType": "Ó”CÒ"
+    }, 
+    {
+        "entryDate": "2015-09-01T00:00:00", 
+        "name": "b”ã@“i", 
+        "workerId": 9, 
+        "workerType": "‰ÁHÒ"
+    }, 
+    {
+        "entryDate": "2017-04-01T00:00:00", 
+        "name": "’·Z@‘å’n", 
+        "workerId": 10, 
+        "workerType": "––±"
+    }, 
+    {
+        "entryDate": "2016-06-30T00:00:00", 
+        "name": "‰i¼@‘åk", 
+        "workerId": 11, 
+        "workerType": "‰ÁHÒ"
+    }
+]

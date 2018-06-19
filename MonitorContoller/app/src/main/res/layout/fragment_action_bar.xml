@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:background="@color/colorPrimary"
+             tools:context="com.example.miqa3893.monitor_controller.ActionBarFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/lb_datetime"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="4dp"
+        android:background="@color/colorPrimary"
+        android:gravity="center_vertical"
+        android:padding="4dp"
+        android:text="今日の日付"
+        android:textAlignment="textStart"
+        android:textSize="36sp"/>
+
+</FrameLayout>

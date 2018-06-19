@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_setting"
+        android:icon="@drawable/ic_settings_black"
+        android:showAsAction="ifRoom"
+        android:title="アプリ設定"
+        android:visible="true"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_allDelete"
+        android:title="検査履歴初期化"
+        app:showAsAction="never"/>
+</menu>

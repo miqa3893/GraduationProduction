@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_dateSetting"
+        android:icon="@drawable/ic_today_black"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_setting"
+        android:visible="true"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_setting"
+        android:icon="@drawable/ic_settings_black"
+        android:showAsAction="ifRoom"
+        android:title="アプリ設定"
+        android:visible="true"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_delete"
+        android:title="履歴を消す（デバッグ用）"
+        app:showAsAction="never"/>
+</menu>

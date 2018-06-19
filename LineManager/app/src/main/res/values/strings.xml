@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">かんりしゃ（さんじげんちほー）</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_setting">日付設定</string>
+    <string name="setting_screen">設定画面</string>
+    <string name="settings_screeen_color_reverse">色の反転</string>
+    <string name="key_screen_reverse">screen.reverse</string>
+    <string name="settings_file">ファイルの設定</string>
+    <string name="settings_file_name_prefix">不良率の設定</string>
+    <string name="key_file_name_prefix">file.name.prefix</string>
+    <string name="settings_file_name_prefix_default">memo</string>
+    <string name="settings_file_name_prefix_entry"></string>
+    <string name="settings_file_name_prefix_dialog_title">数値を入力してください</string>
+    <string name="settings_file_name_prefix_dialog_message"></string>
+    <string name="settings_text">文字の設定</string>
+    <string name="settings_text_size">フォントサイズ</string>
+    <string name="key_text_size">text.size</string>
+    <string name="settings_text_size_dialog_title">フォントサイズ</string>
+    <string name="setting_text_size_large">大</string>
+    <string name="setting_text_size_medium">中</string>
+    <string name="setting_text_size_small">小</string>
+    <string name="settings_text_style">装飾</string>
+    <string name="key_text_style">text.style</string>
+    <string name="settings_text_style_dialog_title">文字装飾の選択</string>
+    <string name="settings_text_style_italic">イタリック</string>
+    <string name="settings_text_style_bold">太字</string>
+</resources>

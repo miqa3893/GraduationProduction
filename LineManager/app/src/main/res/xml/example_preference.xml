@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="設定タイトル"
+        android:key="seting_title">
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="notification"
+            android:singleLine="false"
+            android:summary="通知のオンオフ"
+            android:title="通知の利用">
+        </SwitchPreference>
+        <EditTextPreference
+            android:defaultValue="20"
+            android:key="fontSize"
+            android:singleLine="false"
+            android:title="フォントサイズ"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

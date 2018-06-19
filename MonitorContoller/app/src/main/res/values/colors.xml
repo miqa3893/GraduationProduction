@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e8e8e8</color>
+    <color name="colorPrimaryDark">#676767</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="correct">#006b9d</color>
+    <color name="failure">#cc2d2d</color>
+    <color name="alertBackA">#ffea2f</color>
+    <color name="alertBackB">#ffffff</color>
+    <color name="alertText">#fb2074</color>
+</resources>
